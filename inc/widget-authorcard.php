@@ -1,22 +1,19 @@
 <?php
-/*-----------------------------------------------------------------------------------
-  Plugin Name: Metro Author Card Widget
------------------------------------------------------------------------------------*/
 
 //Widget Registration.
 
 function radlabs_load_widget() {
-  register_widget( 'RL_Metro_Author_Card' );
+  register_widget( 'RL_Metro_Author_Widget' );
 }
 
-class RL_Metro_Author_Card extends WP_Widget {
+class RL_Metro_Author_Widget extends WP_Widget {
 
   // Widget Class Constructor
   function __construct() {
     parent::__construct(
-      'rl_metro_card',
+      'rl_metro_widget',
       __( 'Metro Author', RADLABS_TEXTDOMAIN ),
-      array( 'description' => __( 'Show Metro style Author Card in sidebar or footer.', RADLABS_TEXTDOMAIN ), )
+      array( 'description' => __( 'Show Metro style Author Widget in sidebar or footer.', RADLABS_TEXTDOMAIN ), )
     );
 
     add_action('wp_enqueue_scripts', array($this, 'metro_card_register_scripts'));
