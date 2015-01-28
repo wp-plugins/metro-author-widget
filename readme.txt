@@ -15,7 +15,7 @@ Metro Author Widget for sidebar and footer. Inspired by Windows Phone live tile.
 This widget allows you to display your site authors with social media links and avatar in the sidebar and footer. Widget can be used multiple of times even in one sidebar area.
 
 = Demo =
-http://www.radlabs.biz/beta/blog/
+http://www.radlabs.biz/blog/
 
 All widgets have customisation options.
 
