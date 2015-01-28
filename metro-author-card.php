@@ -1,13 +1,13 @@
 <?php
-   /*
-   Plugin Name: Metro Author Widget
-   Plugin URI: https://wordpress.org/plugins/metro-author-widget/
-   Description: Metro Author Widget for sidebar and footer. Inspired by Windows Phone live tile.
-   Version: 1.0
-   Author: Zayed Baloch
-   Author URI: http://www.radlabs.biz/
-   License: GPL2
-   */
+/*
+Plugin Name: Metro Author Widget
+Plugin URI: https://wordpress.org/plugins/metro-author-widget/
+Description: Metro Author Widget for sidebar and footer. Inspired by Windows Phone live tile.
+Version: 1.0
+Author: Zayed Baloch
+Author URI: http://www.radlabs.biz/
+License: GPL2
+*/
 
 defined('ABSPATH') or die("No script kiddies please!");
 define( 'RLMAC_VERSION',   '1.0' );
