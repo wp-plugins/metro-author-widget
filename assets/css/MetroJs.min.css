@@ -16,6 +16,8 @@
 .avatar-200{
   height: 200px;
   width: 200px;
+  -webkit-border-radius: 0% !important;
+          border-radius: 0% !important;
 }
 h3.mac-me{
   clear: both;

@@ -4,7 +4,7 @@ Donate link: http://radlabs.biz
 Tags: widget, metro style, author box, author card, author widget, windows phone style,
 Requires at least: 3.2
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 
 
@@ -58,10 +58,18 @@ Rad Labs http://www.radlabs.biz
 
 == Changelog ==
 
+= 1.1 =
+* Added: Click author image to link to Author Post Page.
+* Fixed: User avatar image radius for TwentyFifteen theme.
+
 = 1.0 =
 * First Release
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Added: Click author image to link to Author Post Page.
+* Fixed: User avatar image radius for TwentyFifteen theme.
 
 = 1.0 =
 First Release.
