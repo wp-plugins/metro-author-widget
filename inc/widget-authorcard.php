@@ -61,7 +61,7 @@ class RL_Metro_Author_Widget extends WP_Widget {
           if( $instance['image'] ){
             echo '<a href="'.get_author_posts_url($instance['author_list']).'"><img src="'.esc_url($instance['image']).'" alt="'.$instance['title'].'" class="avatar avatar-200 photo"/></a>';
             } else {
-              echo get_avatar( $instance['author_list'], apply_filters( 'radlabs_author_bio_avatar_size', 200 ));
+              echo '<a href="'.get_author_posts_url($instance['author_list']).'">'. get_avatar( $instance['author_list'], apply_filters( 'radlabs_author_bio_avatar_size', 200 )) .'</a>';
             }
         ?>
       </div>
