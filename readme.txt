@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: zayedbaloch,
+Contributors: zayedbaloch, pixeldesign,
 Donate link: http://radlabs.biz
 Tags: widget, metro style, author box, author card, author widget, windows phone style,
 Requires at least: 3.2
