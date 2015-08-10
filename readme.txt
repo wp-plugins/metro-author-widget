@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: zayedbaloch, pixeldesign,
-Donate link: http://radlabs.biz
+Donate link: http://pixeldesign.io/
 Tags: widget, metro style, author box, author card, author widget, windows phone style,
 Requires at least: 3.2
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.1
 License: GPLv2 or later
 
@@ -24,9 +24,6 @@ All widgets have customisation options.
 2. Display author first name.
 3. Add Author social media links.
 4. Hide/Show social media icons option.
-
-= Contact =
-Rad Labs http://www.radlabs.biz
 
 == Installation ==
 
